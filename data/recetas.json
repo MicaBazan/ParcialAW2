@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pan",
+    "descripcion": "Receta de pan",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cant": "50gr"
+      },
+      {
+        "id": 2,
+        "cant": "30gr"
+      }
+    ]
+  }
+]

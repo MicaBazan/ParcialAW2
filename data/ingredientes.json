@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Queso"
+  },
+  {
+    "id": 2,
+    "nombre": "Sal"
+  },
+  {
+    "id": 3,
+    "nombre": "Harina"
+  },
+  {
+    "id": 4,
+    "nombre": "Azucar"
+  }
+]
